@@ -1,0 +1,12 @@
+
+param: 100,
+      elapsed time array:  0.00348 sec,   0.002209 sec,   0.001671 sec,   0.00141 sec,   0.001408 sec,   0.001163 sec,   0.001032 sec,   0.000977 sec,   0.001228 sec,   0.001223 sec,   0.001119 sec,   0.000982 sec,   0.000932 sec,   0.001114 sec,   0.001098 sec,   0.001181 sec, 
+ 
+param: 200,
+      elapsed time array:  0.017235 sec,   0.013262 sec,   0.009805 sec,   0.007477 sec,   0.005968 sec,   0.005228 sec,   0.004673 sec,   0.004329 sec,   0.004311 sec,   0.003671 sec,   0.003646 sec,   0.003782 sec,   0.00386 sec,   0.003624 sec,   0.003759 sec,   0.005388 sec, 
+ 
+param: 500,
+      elapsed time array:  0.260804 sec,   0.145151 sec,   0.108673 sec,   0.107458 sec,   0.097659 sec,   0.083554 sec,   0.082979 sec,   0.074397 sec,   0.071203 sec,   0.073932 sec,   0.065086 sec,   0.062874 sec,   0.061401 sec,   0.062505 sec,   0.063405 sec,   0.061552 sec, 
+ 
+Total incorrect checksums for 111550129: 0
+No unreleased shared memory.
