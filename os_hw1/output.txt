@@ -1,0 +1,6 @@
+total 300
+-rw-rw-r-- 1 heng heng 271662 Sep 18 22:44 (113上) 1-shell.pdf
+-rw-rw-r-- 1 heng heng   4713 Sep 24 21:21 main.cpp
+-rwxrwxr-x 1 heng heng  17160 Sep 24 21:24 main.out
+-rw------- 1 heng heng      0 Sep 24 21:28 output.txt
+-rw------- 1 heng heng     17 Sep 24 21:27 testfile.txt
