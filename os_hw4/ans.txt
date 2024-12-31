@@ -1,0 +1,6 @@
+Max Free Chunk Size = 864
+Max Free Chunk Size = 416
+Max Free Chunk Size = 2944
+Max Free Chunk Size = 0
+Max Free Chunk Size = 19968
+Max Free Chunk Size = 2048
